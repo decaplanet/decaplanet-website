@@ -7,9 +7,7 @@
 		<img src="{base}/images/deca.png" alt="profile-pic" />
 	</div>
 	<h1 class="center-box__heading">"Hello, World!"</h1>
-	<p class="center-box__p pretendard">
-		I'm a self-taught programming enthusiast with a Graphic Design background.
-	</p>
+	<p class="center-box__p pretendard">Programming enthusiast with a Graphic Design background.</p>
 	<p class="center-box__p pretendard">
 		I usually write programs in <span>Rust</span>,
 		<span>TypeScript</span>, and Python.
