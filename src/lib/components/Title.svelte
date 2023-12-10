@@ -7,10 +7,12 @@
 		<img src="{base}/images/deca.png" alt="profile-pic" />
 	</div>
 	<h1 class="center-box__heading">"Hello, World!"</h1>
-	<p class="center-box__p pretendard">I'm a self-taught programming enthusiast</p>
 	<p class="center-box__p pretendard">
-		with experience in <span>Web Development</span> and
-		<span>Graphic Design</span>.
+		I'm a self-taught programming enthusiast with a Graphic Design background.
+	</p>
+	<p class="center-box__p pretendard">
+		I usually write programs in <span>Rust</span>,
+		<span>TypeScript</span>, and Python.
 	</p>
 </div>
 
