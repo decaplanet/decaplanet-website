@@ -7,16 +7,22 @@
 <svelte:head>
 	<title>Deca</title>
 	<meta name="theme-color" content="#5F90E0" />
-	<meta name="description" content="I’m a TypeScripter, Rustacean, and Graphic Designer!" />
+	<meta name="description" content="Programming enthusiast with a Graphic Design background." />
 
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Deca" />
-	<meta property="og:description" content="I’m a TypeScripter, Rustacean, and Graphic Designer!" />
+	<meta
+		property="og:description"
+		content="Programming enthusiast with a Graphic Design background."
+	/>
 	<meta property="og:image" content="{base}/images/thumbnail.png" />
 	<meta property="og:url" content="https://decaplanet.github.io/decaplanet-website/" />
 
 	<meta name="twitter:title" content="Deca" />
-	<meta name="twitter:description" content="I’m a TypeScripter, Rustacean, and Graphic Designer!" />
+	<meta
+		name="twitter:description"
+		content="Programming enthusiast with a Graphic Design background."
+	/>
 	<meta name="twitter:image" content="{base}/images/thumbnail.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 
