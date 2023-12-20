@@ -30,3 +30,4 @@
 </svelte:head>
 <slot />
 <a rel="me" hidden href="https://mastodon.social/@decaplanet">Mastodon</a>
+<a rel="me" hidden href="https://hachyderm.io/@decaplanet">Mastodon</a>
